@@ -1,0 +1,46 @@
+.header {
+    padding: 0 200px 0 200px
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.background {
+    background-color: #4298B4;
+}
+
+.background1 {
+    background-color: beige;
+}
+
+.text {
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.text1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+.text2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    background-color: purple;
+    margin-left: 540px;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+}
